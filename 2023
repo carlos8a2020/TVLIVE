@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1,UNIVISION
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3796.m3u8
+#EXTINF:-1,UNIMAS
+http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
+T/4125.m3u8
+#EXTINF:-1,ESTRELLATV
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1,TUDN USA
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3751.m3u8
+#EXTINF:-1,TUDN MEXICO
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/1105665.m3u8
+#EXTINF:-1,TELEMUNDO
+http://181.189.246.86:58003/play/a03a/index.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS 
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/4030.m3u8
+#EXTINF:-1,BABY FIRST
+http://190.60.37.69:8015/play/a00v/index.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://190.60.37.69:8015/play/a08p/index.m3u8
+#EXTINF:-1,ESPN
+http://190.60.37.69:8015/play/a09b/index.m3u8
+#EXTINF:-1,FOX DEPORTES
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3753.m3u8
+#EXTINF:-1,NATGEO
+http://181.189.246.86:58003/play/a02l/index.m3u8
+#EXTINF:-1,GALAVISION
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3793.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/17413.m3u8
+#EXTINF:-1,BEIN SPORTS
+http://ultraplay.org/FERNANDOSEPULVEDA-CL1/FernandoSepulveda34vw85kc/128774
+#EXTINF:-1,DIY
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/17414.m3u8
+#EXTINF:-1,UNIVERSO
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3757.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://181.204.79.178:8202/play/a00c
+#EXTINF:-1,BANDAMAX 
+http://45.228.234.77:4430/play/bandamax
+#EXTINF:-1,AZTECA 7
+http://tv.nousiptv.com:8080/live/Jomyson/JuJH.8628jT/3215.m3u8
