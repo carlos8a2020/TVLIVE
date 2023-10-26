@@ -2,7 +2,7 @@
 #EXTINF:-1,Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 #EXTINF:-1,Tudn USA
-http://181.189246.86:58004/play/a00m/index.m3u8
+http://181.189.246.86:58004/play/a00m/index.m3u8
 #EXTINF:-1,Fox Sports Premium
 http://45.189.148.24:8000/play/a027/index.m3u8
 #EXTINF:-1,Fox Deportes
@@ -14,11 +14,11 @@ http://204.157.251.250:8000/play/a06p/index.m3u8
 #EXTINF:-1,Multimedios
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1,Unimas
-http://181.189246.86:58004/play/a00n/index.m3u8
+http://181.189.246.86:58004/play/a00n/index.m3u8
 #EXTINF:-1,Univision
-http://181.189246.86:58004/play/a00e/index.m3u8
+http://181.189.246.86:58004/play/a00e/index.m3u8
 #EXTINF:-1,Azteca 7
-http://181.189246.86:58004/play/a001/index.m3u8
+http://181.189.246.86:58004/play/a00l/index.m3u8
 #EXTINF:-1,Telemundo
 http://72.76.116.158:8000/play/a07a/index.m3u8
 #EXTINF:-1,Estrella TV
