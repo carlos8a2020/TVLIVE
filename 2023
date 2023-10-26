@@ -1,19 +1,34 @@
 #EXTM3U
 #EXTINF:-1,Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+#EXTINF:-1,Tudn USA
+http://181.189246.86:58004/play/a00m/index.m3u8
+#EXTINF:-1,Fox Sports Premium
+http://45.189.148.24:8000/play/a027/index.m3u8
+#EXTINF:-1,Fox Deportes
+http://45.189.148.24:8000/play/a00j/index.m3u8
+#EXTINF:-1,Fod Networks
+http://45.189.148.24:8000/play/a006/index.m3u8
+#EXTINF:-1,Claro Sports HD
+http://204.157.251.250:8000/play/a06p/index.m3u8
 #EXTINF:-1,Multimedios
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 #EXTINF:-1,Unimas
-http://72.76.116.158:8000/play/a08b/index.m3u8
+http://181.189246.86:58004/play/a00n/index.m3u8
 #EXTINF:-1,Univision
-http://72.76.116.158:8000/play/a07t/index.m3u8
+http://181.189246.86:58004/play/a00e/index.m3u8
+#EXTINF:-1,Azteca 7
+http://181.189246.86:58004/play/a001/index.m3u8
 #EXTINF:-1,Telemundo
 http://72.76.116.158:8000/play/a07a/index.m3u8
 #EXTINF:-1,Estrella TV
 https://estrellatv-glewed.amagi.tv/playlist.m3u8
-#EXTINF:-1,Baby First
-https://origin1.noisypeak.com/4XhPa5v93P3za6G0cMyV/playlist.m3u8
 #EXTINF:-1,Fubo Sports
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
+#EXTINF:-1,Bandamax
+http://45.189.148.24:8000/play/a021/index.m3u8
 #EXTINF:-1,Azteca international
 https://i.mjh.nz/SamsungTVPlus/ESBD1300004IG.m3u8
+
+
+
