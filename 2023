@@ -3,8 +3,8 @@
 http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
 #EXTINF:-1,Zona TUDN
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
-#EXTINF:-1,Tudn USA
-http://181.189.246.86:58004/play/a00m/index.m3u8
+#EXTINF:-1,Univison
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/167881
 #EXTINF:-1,Galavision
 http://167.114.156.136:25461/INFINITV/ZX89NM22/174
 #EXTINF:-1,Being Sports
@@ -19,8 +19,6 @@ http://167.114.156.136:25461/INFINITV/ZX89NM22/60
 http://167.114.156.136:25461/INFINITV/ZX89NM22/89
 #EXTINF:-1,A+
 http://167.114.156.136:25461/INFINITV/ZX89NM22/113
-#EXTINF:-1,Univision
-http://167.114.156.136:25461/INFINITV/ZX89NM22/173
 #EXTINF:-1,Milenio TV
 http://167.114.156.136:25461/INFINITV/ZX89NM22/88
 #EXTINF:-1,Universo
@@ -47,8 +45,8 @@ https://lnc-bein-espanol.tubi.video/playlist.m3u8
 http://45.189.148.24:8000/play/a021/index.m3u8
 #EXTINF:-1,Unimas
 http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/24524
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,Azteca Deportes
+http://nxt.plus:8080/pepespain/7RuDHAnUx7Sf/193967
 
 
 
